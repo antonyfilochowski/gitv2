@@ -1,0 +1,2 @@
+new branch-1 file
+to be visible initially only on branch-1
