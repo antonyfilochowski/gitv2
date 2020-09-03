@@ -1,2 +1,3 @@
 new branch-1 file
 to be visible initially only on branch-1
+but now also on display in master branch
